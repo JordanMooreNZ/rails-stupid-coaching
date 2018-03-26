@@ -1,0 +1,25 @@
+// Place all the styles related to the coach controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+body {
+  padding-left: 25px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.question-box, .answer-box {
+  border-left: solid 5px #DCDCDC;
+  // padding: 0 5px;
+  margin: 5px;
+}
+
+p{
+  padding: 5px;
+}
+
+.answer-box {
+  background: #FCFFDE;
+  width: auto;
+}
